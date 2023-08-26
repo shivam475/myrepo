@@ -1,5 +1,9 @@
 #include<iostreeam>
+<<<<<<< HEAD
 void bubblesort(){
+}
+void quicksort(){
+    quicksort
     
 }
 int main(){
